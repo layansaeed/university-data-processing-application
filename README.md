@@ -1,4 +1,4 @@
-# university-data-processing-application
+# University-data-processing-application
 
 ## Introduction
 This project is designed to manage various data related to a university's departments, employees, and students, including their counseling and performance data. The system allows for efficient retrieval, processing, and statistical analysis of this data. Built using object-oriented programming principles, the application incorporates key design patterns to ensure flexibility, maintainability, and scalability.
